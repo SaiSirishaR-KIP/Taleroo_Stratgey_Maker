@@ -1,0 +1,55 @@
+{
+  "strategy_version": "v1",
+  "milestones": [
+    {
+      "title": "Aufenthalt & Arbeitserlaubnis kl\u00e4ren",
+      "parallel": false,
+      "to_dos": [
+        "Informationen und Beratung zu Work-Permit und Arbeitsrecht in British Columbia einholen",
+        "Kontaktaufnahme mit lokalen Beh\u00f6rden in Vancouver und Jobcenter zur Kl\u00e4rung individueller Voraussetzungen"
+      ],
+      "optional": []
+    },
+    {
+      "title": "Fachliche Qualifikation erweitern",
+      "parallel": false,
+      "to_dos": [
+        "Weiterbildungskurse zu Kubernetes, Docker und Infrastructure as Code (z.B. Terraform) besuchen",
+        "Leadership-Trainings und Projektmanagement-Kurse absolvieren"
+      ],
+      "optional": [
+        "Anerkennung ausl\u00e4ndischer Berufsqualifikationen beantragen"
+      ]
+    },
+    {
+      "title": "Soziale Integration und Vernetzung",
+      "parallel": true,
+      "to_dos": [
+        "Teilnahme an lokalen Tech-Meetups und Vernetzung \u00fcber LinkedIn",
+        "Engagement in kulturellen Aktivit\u00e4ten und Sprach-Tandems f\u00fcr besseren kulturellen Austausch"
+      ],
+      "optional": [
+        "Besuch von lokalen Sprach- und Kulturkursen zur Verbesserung der sozialen Integration"
+      ]
+    },
+    {
+      "title": "Berufliche Stellensuche und Bewerbung",
+      "parallel": false,
+      "to_dos": [
+        "Gezielte Bewerbung auf Senior Developer und Tech Lead Positionen mit Fokus auf hybride und Remote-Arbeit",
+        "Unterst\u00fctzung bei der Erstellung und Optimierung des Lebenslaufs und der Bewerbungsunterlagen"
+      ],
+      "optional": []
+    },
+    {
+      "title": "Finanzielle Unterst\u00fctzung sichern",
+      "parallel": true,
+      "to_dos": [
+        "Pr\u00fcfung und Beantragung von F\u00f6rderungen f\u00fcr berufliche Weiterbildung \u00fcber \u00f6rtliche Jobcenter",
+        "Unterst\u00fctzung bei Umzugskosten und weiteren finanziellen Hilfen, falls erforderlich"
+      ],
+      "optional": []
+    }
+  ],
+  "created_at": "2025-06-04T10:10:07.623924"
+}

@@ -1,0 +1,32 @@
+{
+  "integrations_analyse": {
+    "finanzielle_unterstützung": {
+      "bedarf": "möglich bei Work-Permit oder Umzugskosten",
+      "möglichkeiten": [
+        "Förderung für berufliche Weiterbildung durch örtliche Jobcenter",
+        "Unterstützung bei Anerkennung ausländischer Berufsqualifikationen",
+        "Finanzierung für Integrations- und Sprachkurse, falls notwendig"
+      ]
+    },
+    "jobcenter_anbindung": {
+      "status": "Wechsel des Wohnortes von Toronto nach Vancouver geplant",
+      "empfehlungen": [
+        "Kontaktaufnahme mit dem Jobcenter in Vancouver zur individuellen Beratung",
+        "Registrierung bei lokalen Arbeitsagenturen und Tech-Netzwerken",
+        "Informationen zum Work-Permit und Arbeitsrecht in Kanada über lokale Behörden einholen"
+      ]
+    },
+    "sprachliche_integration": {
+      "bedarf": "Niedrig, da Englisch und Französisch vorhanden sind",
+      "kursempfehlungen": [
+        "Optional: Teilnahme an lokalen Sprach- und Kulturkursen zur besseren sozialen Integration",
+        "Sprach-Tandems oder Austauschgruppen für kulturellen Austausch"
+      ]
+    },
+    "zusätzliche_unterstützung": [
+      "Vernetzung mit lokalen Tech Meetups und Community Gruppen in Vancouver",
+      "Unterstützung bei der Jobsuche im Bereich Senior Developer / Tech Lead",
+      "Hilfe bei Verständnis lokaler Kultur und Aufbau sozialer Netzwerke"
+    ]
+  }
+}

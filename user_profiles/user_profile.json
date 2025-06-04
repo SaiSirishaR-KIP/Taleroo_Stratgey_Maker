@@ -1,0 +1,58 @@
+{
+    "personal_info": {
+        "name": "John Doe",
+        "age": 28,
+        "nationality": "Canadian",
+        "current_location": "Toronto",
+        "target_location": "Vancouver",
+        "language_skills": ["English", "French"]
+    },
+    "education": {
+        "highest_degree": "Bachelor's in Computer Science",
+        "graduation_year": 2020,
+        "university": "University of Toronto",
+        "relevant_certifications": [
+            "AWS Certified Developer",
+            "Google Cloud Professional"
+        ]
+    },
+    "work_experience": {
+        "current_role": "Software Developer",
+        "years_of_experience": 3,
+        "skills": [
+            "Python",
+            "JavaScript",
+            "React",
+            "Node.js",
+            "AWS"
+        ],
+        "previous_companies": [
+            {
+                "name": "Tech Corp",
+                "role": "Junior Developer",
+                "duration": "2 years"
+            }
+        ]
+    },
+    "integration_goals": {
+        "social_networks": ["LinkedIn", "Meetup.com"],
+        "community_interests": ["Tech meetups", "Sports clubs"],
+        "cultural_activities": ["Local festivals", "Language exchange"]
+    },
+    "employment_goals": {
+        "target_roles": ["Senior Developer", "Tech Lead"],
+        "preferred_industries": ["Technology", "FinTech"],
+        "salary_expectations": "CAD 120,000+",
+        "work_preferences": ["Hybrid", "Remote options"]
+    },
+    "challenges": {
+        "integration": [
+            "Building new social network",
+            "Understanding local culture"
+        ],
+        "employment": [
+            "Competitive job market",
+            "Work permit requirements"
+        ]
+    }
+} 

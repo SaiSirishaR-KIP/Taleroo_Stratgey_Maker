@@ -1,0 +1,17 @@
+{
+  "soziale_analyse": {
+    "alleinerziehend": {
+      "situation": "Im Benutzerprofil gibt es keine Hinweise darauf, dass John Doe alleinerziehend ist.",
+      "empfehlungen": []
+    },
+    "drogenabhängigkeit": {
+      "situation": "Es liegen keine Angaben zu einer Drogenabhängigkeit vor.",
+      "empfehlungen": []
+    },
+    "wohnverhältnisse": {
+      "situation": "Keine Informationen über Schwierigkeiten bei der Wohnungssuche oder problematische Wohnverhältnisse.",
+      "empfehlungen": []
+    },
+    "zusätzliche_unterstützung": []
+  }
+}
